@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Trisnanto Setyo Putra</h1>
 
-<h2 align="center">Welcome to my Github!</h2>
+<h2 align="center">This is about me</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=naufalmulyarizki&label=Profile%20views&color=0e75b6&style=flat" alt="naufalmulyarizki" /> </p>
 
 <br> 
