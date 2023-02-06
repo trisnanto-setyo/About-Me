@@ -15,9 +15,11 @@
 
 - 📫 Email : trisnantosetyoputra@gmail.com.
 
+<p align="center">
+<a href="https://cdn.discordapp.com/attachments/1065961467083509832/1072029741122588702/WhatsApp_Image_2023-02-04_at_08.14.26.jpeg" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/1065961467083509832/1072029741122588702/WhatsApp_Image_2023-02-04_at_08.14.26.jpeg" alt="Silver Play Button" height="30" width="40" /></a>
+</p> 
 
-
-<h2 align="center">Social Media</h1> 
+<h2 align="center">My Social Media</h1> 
 <p align="center">
 <a href="https://instagram.com/trisnanto_setyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Trisnanto" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/TrisnantoSetyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Trisnanto" height="30" width="40" /></a>
